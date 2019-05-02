@@ -1,0 +1,21 @@
+@import "colors";
+@import "header";
+@import "block-1";
+@import "block-foto";
+@import "block-2";
+@import "4-foto";
+@import "btn-input";
+@import "foto-2";
+@import "footer";
+
+@import "icon";
+
+body{
+  background: $white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
